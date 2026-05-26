@@ -24,11 +24,7 @@
 
 library(tidyverse)
 library(gapminder)
-
-
-# ============================================================
-# ANTES DO COMMIT 2 — Conectar com o GitHub
-# ============================================================
+library(dplyr)
 #
 # Você já fez o primeiro commit (estrutura inicial), mas o
 # projeto ainda não está no GitHub. Para criar o repo na nuvem
